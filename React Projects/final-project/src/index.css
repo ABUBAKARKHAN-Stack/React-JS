@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  @apply bg-zinc-900;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+  scrollbar-width: none;
+}
+
+.gradient-cards {
+
+  background: linear-gradient(71deg, #080509, #1a171c, #080509) padding-box,
+    linear-gradient(71deg, #121013, #b0afb0, #121013) border-box;
+  border: 2px solid transparent;
+}
+
+button,
+input ,
+textarea {
+  background: linear-gradient(71deg, #080509, #1a171c, #080509) padding-box, linear-gradient(71deg, #121013, #b0afb0, #121013) border-box;
+  border: 1px solid transparent;
+  outline: none;
+}
+
+select {
+
+  background: linear-gradient(71deg, #080509, #1a171c, #080509) padding-box, linear-gradient(71deg, #121013, #b0afb0, #121013) border-box;
+  border: 1px solid transparent;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 11px;
+  width: 100px;
+}
+
+option {
+  background-color: #080509;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,640 @@
+[
+  {
+      "id": 1,
+      "countryName": "Pakistan",
+      "capital": "Islamabad",
+      "population": 220892340,
+      "interestingFacts": "Pakistan has the world's second-highest peak, K2."
+  },
+  {
+      "id": 2,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "interestingFacts": "The U.S. has the world's largest economy."
+  },
+  {
+      "id": 3,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "interestingFacts": "Canada has the longest coastline of any country."
+  },
+  {
+      "id": 4,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "interestingFacts": "Japan has more than 6,800 islands."
+  },
+  {
+      "id": 5,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "interestingFacts": "Germany is Europe's largest economy."
+  },
+  {
+      "id": 6,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "interestingFacts": "Australia is home to 21 of the world's 25 most venomous snakes."
+  },
+  {
+      "id": 7,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "interestingFacts": "Brazil is the largest coffee producer in the world."
+  },
+  {
+      "id": 8,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "interestingFacts": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+      "id": 9,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "interestingFacts": "India is the largest democracy in the world."
+  },
+  {
+      "id": 10,
+      "countryName": "South Africa",
+      "capital": "Pretoria, Bloemfontein, Cape Town",
+      "population": 59308690,
+      "interestingFacts": "South Africa has three capital cities."
+  },
+  {
+      "id": 11,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "interestingFacts": "France is the most visited country in the world."
+  },
+  {
+      "id": 12,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "interestingFacts": "Russia is the largest country by area."
+  },
+  {
+      "id": 13,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "interestingFacts": "China is the world's most populous country."
+  },
+  {
+      "id": 14,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128932753,
+      "interestingFacts": "Mexico has 68 official languages."
+  },
+  {
+      "id": 15,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 60367477,
+      "interestingFacts": "Italy is home to the Colosseum, one of the Seven Wonders of the World."
+  },
+  {
+      "id": 16,
+      "countryName": "Spain",
+      "capital": "Madrid",
+      "population": 46754778,
+      "interestingFacts": "Spain produces 45% of the world's olive oil."
+  },
+  {
+      "id": 17,
+      "countryName": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45195777,
+      "interestingFacts": "Argentina is the largest Spanish-speaking country by area."
+  },
+  {
+      "id": 18,
+      "countryName": "Indonesia",
+      "capital": "Jakarta",
+      "population": 273523615,
+      "interestingFacts": "Indonesia is made up of over 17,000 islands."
+  },
+  {
+      "id": 19,
+      "countryName": "Saudi Arabia",
+      "capital": "Riyadh",
+      "population": 34813871,
+      "interestingFacts": "Saudi Arabia is home to the largest sand desert in the world."
+  },
+  {
+      "id": 20,
+      "countryName": "Turkey",
+      "capital": "Ankara",
+      "population": 84339067,
+      "interestingFacts": "Turkey is a transcontinental country, located in both Asia and Europe."
+  },
+  {
+      "id": 21,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 102334404,
+      "interestingFacts": "Egypt is home to the Great Pyramids of Giza, one of the Seven Wonders."
+  },
+  {
+      "id": 22,
+      "countryName": "Thailand",
+      "capital": "Bangkok",
+      "population": 69799978,
+      "interestingFacts": "Thailand is the only Southeast Asian country never colonized by a European power."
+  },
+  {
+      "id": 23,
+      "countryName": "Vietnam",
+      "capital": "Hanoi",
+      "population": 97338579,
+      "interestingFacts": "Vietnam is the largest exporter of cashew nuts in the world."
+  },
+  {
+      "id": 24,
+      "countryName": "Nigeria",
+      "capital": "Abuja",
+      "population": 206139589,
+      "interestingFacts": "Nigeria is the most populous country in Africa."
+  },
+  {
+      "id": 25,
+      "countryName": "Kenya",
+      "capital": "Nairobi",
+      "population": 53771296,
+      "interestingFacts": "Kenya is famous for its wildlife safaris."
+  },
+  {
+      "id": 26,
+      "countryName": "Colombia",
+      "capital": "Bogotá",
+      "population": 50882891,
+      "interestingFacts": "Colombia is the second most biodiverse country in the world."
+  },
+  {
+      "id": 27,
+      "countryName": "Peru",
+      "capital": "Lima",
+      "population": 32971854,
+      "interestingFacts": "Peru is home to Machu Picchu, one of the New Seven Wonders of the World."
+  },
+  {
+      "id": 28,
+      "countryName": "Sweden",
+      "capital": "Stockholm",
+      "population": 10099265,
+      "interestingFacts": "Sweden has the highest number of McDonald's per capita in Europe."
+  },
+  {
+      "id": 29,
+      "countryName": "Norway",
+      "capital": "Oslo",
+      "population": 5421241,
+      "interestingFacts": "Norway has the longest road tunnel in the world."
+  },
+  {
+      "id": 30,
+      "countryName": "Denmark",
+      "capital": "Copenhagen",
+      "population": 5818553,
+      "interestingFacts": "Denmark is one of the happiest countries in the world."
+  },
+  {
+      "id": 31,
+      "countryName": "Finland",
+      "capital": "Helsinki",
+      "population": 5540720,
+      "interestingFacts": "Finland is known for having thousands of lakes and islands."
+  },
+  {
+      "id": 32,
+      "countryName": "Iceland",
+      "capital": "Reykjavik",
+      "population": 343599,
+      "interestingFacts": "Iceland runs almost entirely on renewable energy."
+  },
+  {
+      "id": 33,
+      "countryName": "Switzerland",
+      "capital": "Bern",
+      "population": 8654622,
+      "interestingFacts": "Switzerland is famous for its neutrality and has not been in a state of war since 1815."
+  },
+  {
+      "id": 34,
+      "countryName": "Netherlands",
+      "capital": "Amsterdam",
+      "population": 17441139,
+      "interestingFacts": "The Netherlands is the world’s largest exporter of flowers."
+  },
+  {
+      "id": 35,
+      "countryName": "Belgium",
+      "capital": "Brussels",
+      "population": 11589623,
+      "interestingFacts": "Belgium has three official languages: Dutch, French, and German."
+  },
+  {
+      "id": 36,
+      "countryName": "Greece",
+      "capital": "Athens",
+      "population": 10423054,
+      "interestingFacts": "Greece is the birthplace of democracy."
+  },
+  {
+      "id": 37,
+      "countryName": "Portugal",
+      "capital": "Lisbon",
+      "population": 10196709,
+      "interestingFacts": "Portugal is home to the world's oldest bookstore."
+  },
+  {
+      "id": 38,
+      "countryName": "New Zealand",
+      "capital": "Wellington",
+      "population": 4822233,
+      "interestingFacts": "New Zealand has more sheep than people."
+  },
+  {
+      "id": 39,
+      "countryName": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "population": 32365999,
+      "interestingFacts": "Malaysia is known for its diverse ecosystems."
+  },
+  {
+      "id": 40,
+      "countryName": "Philippines",
+      "capital": "Manila",
+      "population": 109581078,
+      "interestingFacts": "The Philippines is the largest exporter of coconuts in the world."
+  },
+  {
+      "id": 41,
+      "countryName": "South Korea",
+      "capital": "Seoul",
+      "population": 51269185,
+      "interestingFacts": "South Korea is a world leader in technology."
+  },
+  {
+      "id": 42,
+      "countryName": "North Korea",
+      "capital": "Pyongyang",
+      "population": 25778816,
+      "interestingFacts": "North Korea operates under a single-party system."
+  },
+  {
+      "id": 43,
+      "countryName": "Cuba",
+      "capital": "Havana",
+      "population": 11326616,
+      "interestingFacts": "Cuba is known for its old cars and cigars."
+  },
+  {
+      "id": 44,
+      "countryName": "Chile",
+      "capital": "Santiago",
+      "population": 19116201,
+      "interestingFacts": "Chile has the world's driest desert, the Atacama."
+  },
+  {
+      "id": 45,
+      "countryName": "Venezuela",
+      "capital": "Caracas",
+      "population": 28435943,
+      "interestingFacts": "Venezuela has the world's largest oil reserves."
+  },
+  {
+      "id": 46,
+      "countryName": "Iraq",
+      "capital": "Baghdad",
+      "population": 40222493,
+      "interestingFacts": "Iraq is home to some of the earliest civilizations."
+  },
+  {
+      "id": 47,
+      "countryName": "Iran",
+      "capital": "Tehran",
+      "population": 83992949,
+      "interestingFacts": "Iran is known for its rich Persian history."
+  },
+  {
+      "id": 48,
+      "countryName": "Israel",
+      "capital": "Jerusalem",
+      "population": 8655535,
+      "interestingFacts": "Israel has the highest number of startups per capita."
+  },
+  {
+      "id": 49,
+      "countryName": "Jordan",
+      "capital": "Amman",
+      "population": 10203134,
+      "interestingFacts": "Jordan is home to the ancient city of Petra."
+  },
+  {
+      "id": 50,
+      "countryName": "UAE",
+      "capital": "Abu Dhabi",
+      "population": 9890402,
+      "interestingFacts": "The UAE is known for the world's tallest building, Burj Khalifa."
+  },
+  {
+      "id": 51,
+      "countryName": "Poland",
+      "capital": "Warsaw",
+      "population": 38386000,
+      "interestingFacts": "Poland is the largest producer of apples in Europe."
+  },
+  {
+      "id": 52,
+      "countryName": "Ukraine",
+      "capital": "Kyiv",
+      "population": 41723998,
+      "interestingFacts": "Ukraine is the largest country entirely in Europe."
+  },
+  {
+      "id": 53,
+      "countryName": "Czech Republic",
+      "capital": "Prague",
+      "population": 10708981,
+      "interestingFacts": "The Czech Republic has the highest beer consumption per capita."
+  },
+  {
+      "id": 54,
+      "countryName": "Hungary",
+      "capital": "Budapest",
+      "population": 9649523,
+      "interestingFacts": "Budapest has the oldest subway line in mainland Europe."
+  },
+  {
+      "id": 55,
+      "countryName": "Romania",
+      "capital": "Bucharest",
+      "population": 19237691,
+      "interestingFacts": "Romania is home to the world's largest administrative building, the Palace of Parliament."
+  },
+  {
+      "id": 56,
+      "countryName": "Bulgaria",
+      "capital": "Sofia",
+      "population": 6948445,
+      "interestingFacts": "Bulgaria is one of the oldest countries in Europe."
+  },
+  {
+      "id": 57,
+      "countryName": "Serbia",
+      "capital": "Belgrade",
+      "population": 8772235,
+      "interestingFacts": "Serbia is known for its large Orthodox Christian population."
+  },
+  {
+      "id": 58,
+      "countryName": "Croatia",
+      "capital": "Zagreb",
+      "population": 4105267,
+      "interestingFacts": "Croatia is known for its stunning Adriatic coastline."
+  },
+  {
+      "id": 59,
+      "countryName": "Slovenia",
+      "capital": "Ljubljana",
+      "population": 2078654,
+      "interestingFacts": "Slovenia has more than 10,000 caves."
+  },
+  {
+      "id": 60,
+      "countryName": "Slovakia",
+      "capital": "Bratislava",
+      "population": 5456362,
+      "interestingFacts": "Slovakia is home to more than 6,000 caves."
+  },
+  {
+      "id": 61,
+      "countryName": "Lithuania",
+      "capital": "Vilnius",
+      "population": 2722289,
+      "interestingFacts": "Lithuania was the first Soviet republic to declare independence."
+  },
+  {
+      "id": 62,
+      "countryName": "Latvia",
+      "capital": "Riga",
+      "population": 1886198,
+      "interestingFacts": "Riga has over 800 Art Nouveau buildings."
+  },
+  {
+      "id": 63,
+      "countryName": "Estonia",
+      "capital": "Tallinn",
+      "population": 1326535,
+      "interestingFacts": "Estonia is known for its digital society."
+  },
+  {
+      "id": 64,
+      "countryName": "Albania",
+      "capital": "Tirana",
+      "population": 2877797,
+      "interestingFacts": "Albania has one of the most unspoiled coastlines in Europe."
+  },
+  {
+      "id": 65,
+      "countryName": "Montenegro",
+      "capital": "Podgorica",
+      "population": 622359,
+      "interestingFacts": "Montenegro means 'Black Mountain.'"
+  },
+  {
+      "id": 66,
+      "countryName": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "population": 3280819,
+      "interestingFacts": "Bosnia has Europe's last remaining jungle, Perucica."
+  },
+  {
+      "id": 67,
+      "countryName": "North Macedonia",
+      "capital": "Skopje",
+      "population": 2083459,
+      "interestingFacts": "Mother Teresa was born in Skopje."
+  },
+  {
+      "id": 68,
+      "countryName": "Kosovo",
+      "capital": "Pristina",
+      "population": 1831000,
+      "interestingFacts": "Kosovo is the second youngest country in the world, after South Sudan."
+  },
+  {
+      "id": 69,
+      "countryName": "Armenia",
+      "capital": "Yerevan",
+      "population": 2963243,
+      "interestingFacts": "Armenia was the first country to adopt Christianity as its state religion."
+  },
+  {
+      "id": 70,
+      "countryName": "Azerbaijan",
+      "capital": "Baku",
+      "population": 10139177,
+      "interestingFacts": "Azerbaijan is known as the 'Land of Fire' due to its natural gas reserves."
+  },
+  {
+      "id": 71,
+      "countryName": "Georgia",
+      "capital": "Tbilisi",
+      "population": 3989167,
+      "interestingFacts": "Georgia is home to one of the oldest winemaking traditions in the world."
+  },
+  {
+      "id": 72,
+      "countryName": "Kazakhstan",
+      "capital": "Nur-Sultan",
+      "population": 18776707,
+      "interestingFacts": "Kazakhstan is the largest landlocked country in the world."
+  },
+  {
+      "id": 73,
+      "countryName": "Uzbekistan",
+      "capital": "Tashkent",
+      "population": 33469203,
+      "interestingFacts": "Uzbekistan is one of only two doubly landlocked countries in the world."
+  },
+  {
+      "id": 74,
+      "countryName": "Turkmenistan",
+      "capital": "Ashgabat",
+      "population": 6031200,
+      "interestingFacts": "Turkmenistan has the world's largest indoor ferris wheel."
+  },
+  {
+      "id": 75,
+      "countryName": "Tajikistan",
+      "capital": "Dushanbe",
+      "population": 9537645,
+      "interestingFacts": "Tajikistan is known for its rugged mountains."
+  },
+  {
+      "id": 76,
+      "countryName": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "population": 6524195,
+      "interestingFacts": "Kyrgyzstan is home to Lake Issyk-Kul, one of the largest mountain lakes in the world."
+  },
+  {
+      "id": 77,
+      "countryName": "Afghanistan",
+      "capital": "Kabul",
+      "population": 38928341,
+      "interestingFacts": "Afghanistan is known as the 'Graveyard of Empires.'"
+  },
+  {
+      "id": 78,
+      "countryName": "Myanmar",
+      "capital": "Naypyidaw",
+      "population": 54409794,
+      "interestingFacts": "Myanmar is known for its numerous Buddhist temples."
+  },
+  {
+      "id": 79,
+      "countryName": "Laos",
+      "capital": "Vientiane",
+      "population": 7275560,
+      "interestingFacts": "Laos is known for its mountainous terrain."
+  },
+  {
+      "id": 80,
+      "countryName": "Cambodia",
+      "capital": "Phnom Penh",
+      "population": 16718965,
+      "interestingFacts": "Cambodia is home to Angkor Wat, the largest religious monument in the world."
+  },
+  {
+      "id": 81,
+      "countryName": "Sri Lanka",
+      "capital": "Sri Jayawardenepura Kotte",
+      "population": 21803000,
+      "interestingFacts": "Sri Lanka is one of the world's largest tea exporters."
+  },
+  {
+      "id": 82,
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "population": 29136808,
+      "interestingFacts": "Nepal is home to Mount Everest, the highest peak in the world."
+  },
+  {
+      "id": 83,
+      "countryName": "Bhutan",
+      "capital": "Thimphu",
+      "population": 771612,
+      "interestingFacts": "Bhutan measures its success in Gross National Happiness, not GDP."
+  },
+  {
+      "id": 84,
+      "countryName": "Bangladesh",
+      "capital": "Dhaka",
+      "population": 166303498,
+      "interestingFacts": "Bangladesh is home to the Sundarbans, the largest mangrove forest in the world."
+  },
+  {
+      "id": 85,
+      "countryName": "Maldives",
+      "capital": "Malé",
+      "population": 540544,
+      "interestingFacts": "The Maldives is the flattest country in the world."
+  },
+  {
+      "id": 86,
+      "countryName": "Syria",
+      "capital": "Damascus",
+      "population": 17500657,
+      "interestingFacts": "Damascus is one of the oldest continuously inhabited cities in the world."
+  },
+  {
+      "id": 87,
+      "countryName": "Lebanon",
+      "capital": "Beirut",
+      "population": 6825442,
+      "interestingFacts": "Lebanon is known for its ancient cedar trees."
+  },
+  {
+      "id": 88,
+      "countryName": "Oman",
+      "capital": "Muscat",
+      "population": 5106626,
+      "interestingFacts": "Oman is known for its vast deserts and historic forts."
+  },
+  {
+      "id": 89,
+      "countryName": "Qatar",
+      "capital": "Doha",
+      "population": 2881060,
+      "interestingFacts": "Qatar is one of the richest countries in the world per capita."
+  },
+  {
+      "id": 90,
+      "countryName": "Bahrain",
+      "capital": "Manama",
+      "population": 1701583,
+      "interestingFacts": "Bahrain is an island nation in the Persian Gulf."
+  },
+  {
+      "id": 91,
+      "countryName": "Kuwait",
+      "capital": "Kuwait City",
+      "population": 4270563,
+      "interestingFacts": "Kuwait has one of the world's largest oil reserves."
+  }
+  
+]

@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins';
+    background-color: #fbc329;
+}
+
+.main-heading {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px #000;
+}
+
+@media (max-width: 300px) {
+    #root {
+        width: 100vw;
+        overflow-x: hidden;
+    }
+
+}
+
+@keyframes text-ping-large {
+
+    75%,
+    100% {
+        opacity: 0;
+        transform: scale(1.25);
+    }
+}
+
+@keyframes text-ping-small {
+
+    75%,
+    100% {
+        opacity: 0;
+        transform: scale(1.01);
+    }
+}
+
+.ping {
+    animation: text-ping-large 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+@media (max-width: 1024px) {
+    .ping {
+        animation: text-ping-small 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+    }
+}
+
+
+
+@keyframes dot-blink {
+
+    0%,
+    20% {
+        opacity: 0;
+    }
+
+    40%,
+    100% {
+        opacity: 1;
+    }
+}
+
+.dot-blink {
+    animation: dot-blink 1s infinite step-start;
+}
+
+.dot-1 {
+    animation-delay: 0.2s;
+}
+
+.dot-2 {
+    animation-delay: 0.4s;
+}
+
+.dot-3 {
+    animation-delay: .6s;
+}
